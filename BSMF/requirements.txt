@@ -1,0 +1,8 @@
+# Python 3.10.20; PyTorch / torchvision use CUDA 13.0 builds.
+torch==2.12.0
+torchvision==0.27.0
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.2.0
+# Installed THOP distribution: 0.1.1-2209072238 (module version 0.1.1).
+thop>=0.1.1
